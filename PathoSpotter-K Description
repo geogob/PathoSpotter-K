@@ -1,0 +1,20 @@
+The PatoSpotter-K abstract
+
+The achievement of accurate diagnosis based on histological images requires medical 
+pathologists with extensive practical experience, because the characteristics of histological 
+images leads to a subjective analysis, which often brings difficulty to the accuracy of the 
+diagnosis.  Therefore, systems that helps to achieve better diagnoses can minimize doubts and 
+increase the effectiveness of medical treatments. This work describes the research and 
+development of PathoSpotter-K, a computer system to support in identifying 
+Glomerulopathies, which are a family of primary diseases that affects the kidneys. 
+The PathoSpotter-K proposes to supply the lack of support work to histopathological diagnosis 
+of renal diseases, in the field of Digital Pathology, since a lot has been done in the area of 
+neoplasms, but there is few published material regarding the Digital Pathology applied to 
+nephrology and hepatology. The initial objective is the classification of proliferative 
+Glomerulopathies, but will later be expanded to other kidney and hepatic diseases. The work 
+was based on a dataset composed of 811 histological images of glomerulus, and utilized 
+classical techniques of image processing areas and digital histopathology. 
+The PathoSpotter-K presented a performance of 88.4% accuracy, a result considered satisfactory 
+when compared to other similar Digital Pathology works that can be found in the specialized literature.
+
+Keywords: Proliferative Glomerulopathy, Digital Image Processing, Machine Learning, Digital Histopathology.
