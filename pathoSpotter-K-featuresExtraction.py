@@ -23,7 +23,7 @@ from skimage.measure import label, regionprops
 
 print __doc__
 
-glom_rgb = Image.open('C:/Users/George/Google Drive/PathoSpotter/Pra Realizar a Contagem/saudaveis/s3.jpg')
+glom_rgb = Image.open('s3.jpg')
 glom_gl = glom_rgb.convert('L') #Gray Level
 
 glom_hed = rgb2hed(glom_rgb) #hed
