@@ -5,7 +5,7 @@ Created on Thu Feb 25 20:55:02 2016
 @author: George Oliveira Barros, george_gob@hotmail.com. 
 PGCA - Universidade Estadual de Feira de Santana (UEFS)
 
-PathoSpoter-K Feature Extraction: Version 1.0
+PathoSpoter-K Classification: Version 1.0
 """
 
 print __doc__
